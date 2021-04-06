@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "jeu 3D FPS",
+"productVersion": "1.1.0-preview",
+"dataUrl": "Defend the castle final.data.unityweb",
+"wasmCodeUrl": "Defend the castle final.wasm.code.unityweb",
+"wasmFrameworkUrl": "Defend the castle final.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.13f1"
+}
