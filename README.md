@@ -31,6 +31,12 @@ Web :
 
 
 ---------------
+# Who to use it
+
+Add the unity FPS project, and the Medieval_Gold to your asset
+Download the files and test 😀
+
+---------------
 # Credits 
 
 Thanks unity for the projet !
